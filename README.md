@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Sumit Solanki
 
-<!--
-**sumit-solankii/sumit-solankii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Full Stack Developer Journey
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE Student
+- 💻 Learning Java & DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit-solankii&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sumit-solankii&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-solankii&layout=compact&theme=tokyonight)

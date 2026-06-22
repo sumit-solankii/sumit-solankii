@@ -6,7 +6,7 @@
 - 💻 Learning Java & DSA
 
 
-## ⚡ Developer Stats
+## Github Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit-solankii&show_icons=true&theme=synthwave&hide_border=true)
 

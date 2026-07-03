@@ -6,3 +6,74 @@
 - 💻 Learning Java & DSA
 
 
+<p align="left">
+<a href="https://github.com/sumit-solankii">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,vscode,git,github"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumit-solankii&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sumit-solankii&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-solankii&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumit-solankii&theme=onedark&row=1&column=6"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sumit-solankii&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+### 💬 Quote
+
+> "Consistency beats talent when talent doesn't stay consistent."

@@ -42,25 +42,6 @@
 
 </p>
 
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-solankii&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumit-solankii&theme=onedark&row=1&column=6"/>
-
-</p>
 
 ---
 
@@ -74,6 +55,3 @@
 
 ---
 
-### 💬 Quote
-
-> "Consistency beats talent when talent doesn't stay consistent."

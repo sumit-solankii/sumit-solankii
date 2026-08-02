@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=sumit-solankii&label=Profile+Views&style=for-the-badge&color=brightgreen" />
 </p>
 
-## 🚀 Java Full Stack Developer Journey
 
 - 🎓 B.Tech CSE Student
 - 💻 Learning Java & DSA
@@ -44,21 +43,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumit-solankii&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-solankii&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 ## 👀 Profile Views
 
@@ -67,9 +52,3 @@
 </p>
 
 ---
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>

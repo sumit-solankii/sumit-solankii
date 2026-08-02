@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sumit Solanki
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/sumit-solankii?label=Followers&style=for-the-badge&color=blue" />
+  
   <img src="https://img.shields.io/github/stars/sumit-solankii?affiliations=OWNER&style=for-the-badge&color=yellow" />
   <img src="https://komarev.com/ghpvc/?username=sumit-solankii&label=Profile+Views&style=for-the-badge&color=brightgreen" />
 </p>
@@ -39,16 +39,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sumit-solankii&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumit-solankii&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---

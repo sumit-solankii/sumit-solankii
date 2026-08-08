@@ -1,20 +1,17 @@
 # Hi 👋, I'm Sumit Solanki
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumit-88a014360/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sumit-88a014360/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/sumit_solankii" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" height="42" alt="X"/>
+  <a href="https://x.com/sumit_solankii">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/Sumit-solanki/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" height="42" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/Sumit-solanki/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
-<p align="left">
   
   <img src="https://img.shields.io/github/stars/sumit-solankii?affiliations=OWNER&style=for-the-badge&color=yellow" />
   <img src="https://komarev.com/ghpvc/?username=sumit-solankii&label=Profile+Views&style=for-the-badge&color=brightgreen" />

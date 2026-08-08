@@ -13,7 +13,8 @@
   </a>
 </p>
   
-  <img src="https://img.shields.io/github/stars/sumit-solankii?affiliations=OWNER&style=for-the-badge&color=yellow" />
+ <p>
+   <img src="https://img.shields.io/github/stars/sumit-solankii?affiliations=OWNER&style=for-the-badge&color=yellow" />
   <img src="https://komarev.com/ghpvc/?username=sumit-solankii&label=Profile+Views&style=for-the-badge&color=brightgreen" />
 </p>
 

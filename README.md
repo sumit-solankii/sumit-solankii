@@ -1,5 +1,19 @@
 # Hi 👋, I'm Sumit Solanki
+<p align="left">
 
+<a href="https://www.linkedin.com/in/sumit-88a014360/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/sumit_solankii" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Sumit-solanki/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
 <p align="left">
   
   <img src="https://img.shields.io/github/stars/sumit-solankii?affiliations=OWNER&style=for-the-badge&color=yellow" />

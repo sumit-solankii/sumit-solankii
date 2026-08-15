@@ -38,8 +38,4 @@
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./profile/streak.svg" alt="Sumit's GitHub streak">
-</p>

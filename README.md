@@ -41,5 +41,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="Suhani's GitHub streak">
+  <img src="./profile/streak.svg" alt="Sumit's GitHub streak">
 </p>

@@ -38,3 +38,8 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="Suhani's GitHub streak">
+</p>

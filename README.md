@@ -20,7 +20,7 @@
 
 
 - 🎓 B.Tech CSE Student
-- 💻 Learning Java & DSA.
+- 💻 Learning Java & DSA
 ---
 
 ## 🚀 Languages and Tools

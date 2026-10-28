@@ -29,15 +29,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,vscode,git,github,sql,leetcode"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumit-solankii&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ---
 

@@ -34,6 +34,14 @@
 
 ## 📊 GitHub Analytics
 
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-solankii&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sumit-solankii&show_icons=true&theme=tokyonight&hide_border=true"
@@ -55,10 +63,4 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-solankii&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
 

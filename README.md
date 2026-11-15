@@ -19,6 +19,34 @@
 </p>
 
 
+
+<div align="center">
+
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+
+<br/>
+
+# SUMIT SOLANKI
+
+### CODING PROFILE • CODOLIO
+
+<a href="https://codolio.com/profile/sumit-solankii">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20CODING%20PROFILE-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+<a href="https://codolio.com/profile/sumit-solankii">
+  <img src="https://img.shields.io/badge/CODOLIO-sumit--solankii-black?style=flat-square&logo=codeforces&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*Consistency. Competition. Continuous Growth.*
+
+</div>
+
+
 - 🎓 B.Tech CSE Student
 - 💻 Learning Java & DSA
 ---

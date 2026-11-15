@@ -23,7 +23,7 @@
 
 <a href="https://codolio.com/profile/sumit-solankii">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:000000,50:151515,100:000000&text=SUMIT%20SOLANKI&fontColor=FFFFFF&fontSize=65&fontAlignY=43&desc=CODING%20PROFILE%20%7C%20PROBLEM%20SOLVER&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:000000,50:151515,100:000000&text=MY&fontColor=FFFFFF&fontSize=65&fontAlignY=43&desc=CODING%20PROFILE%20%7C%20PROBLEM%20SOLVER&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
 </a>
 
@@ -33,9 +33,7 @@
 <img src="https://img.shields.io/badge/VIEW%20MY%20CODOLIO%20PROFILE-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=black"/>
 </a>
 
-<br/><br/>
 
-**Consistency • Practice • Progress**
 
 </div>
 
